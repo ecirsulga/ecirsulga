@@ -36,4 +36,4 @@ I'm a computer engineering student just for now.
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/ahmedylmz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmedylmz/)
+[![Linkedin Badge](https://img.shields.io/badge/ahmedylmz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ecir-sulga-87a060178/)
