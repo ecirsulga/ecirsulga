@@ -11,10 +11,10 @@ I'm a computer engineering student just for now.
 
 ## I'm currently working on 🔭
 
-- Computer Vision
-- Deep Learning
+- Unity
+- Augmented Reality
 - Asp.Net Core
-- Vue.js
+- Computer Vision
 
 
 ## Known / Using / Experienced 🧠
