@@ -1,7 +1,6 @@
 ### Hi! and welcome to my github. 👋
 
-
-I'm Ecir, live in Turkey. I'm a computer engineering student at Selcuk University. 
+ 
 
 ![Ecir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecirsulga&show_icons=true)
 
